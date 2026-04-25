@@ -37,4 +37,4 @@ Langkah-langkah menjalankan sistem:
 
 5. Login sebagai admin
    Username: admin
-   Password: admin123
+   Password: 123
